@@ -1,4 +1,4 @@
-![Screenshot 2025-05-08 014241](https://github.com/user-attachments/assets/70ba4bbb-97b1-4240-ab37-98e4dcce94b7)# Ex no 9 - To explore and understand the various prompting techniques used for generating videos through AI models.
+## Ex no 9 - To explore and understand the various prompting techniques used for generating videos through AI models.
 
 ### Date: 08-05-25
 
