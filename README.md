@@ -25,14 +25,14 @@ To perform the Exploration of Prompting Techniques for Video Generation
     - 2D or 3D animation
     - Futuristic or historical settings
     - Surreal or dreamlike environments
-10. Example Prompt: “An animated scene of a futuristic city at night, with glowing neon lights, flying cars, and a bustling crowd of people.”
+10. Example Prompt: “Clouds with lightning.”
 11. This reveals the model’s stylistic capabilities and creative range.
 12. Review the generated video and revise your prompt for better precision. Focus on aspects like:
     - Camera angles
     - Transitions and pacing
     - Environmental effects
     - Character movements
-13. Refined Prompt Example: “A cinematic shot of a car speeding through a neon-lit city at night, with reflections on the wet street, tracking shot from a low angle, and a high-speed chase sequence.”
+13. Refined Prompt Example: “A dramatic and clearly visible lightning strike illuminating a turbulent formation of dark cumulonimbus clouds against a deep blue sky. The lightning forks with bright white light, sharply contrasting with the shadowed undersides of the storm clouds.”
 14. Each revision allows better control over the output and improves model alignment with intended visual storytelling.
 15. Generate several videos from the same base prompt with small wording changes to see how phrasing impacts results.
     - Compare output based on adjectives (“sunny” vs. “gloomy”)
